@@ -1,4 +1,4 @@
-# Day 32 – UniProt Quick Revision
+# Day 33 – UniProt Quick Revision
 
 ## What is UniProt?
 UniProt is a database that provides information about proteins, including their function and amino acid sequence.
